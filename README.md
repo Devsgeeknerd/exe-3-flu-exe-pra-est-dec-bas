@@ -1,6 +1,6 @@
 # ARQUITETURA DE CSS (BEM)
 
-*** Aulas:***
+***Aulas:***
 
 - [ ] O que é BEM?
 - [ ] Regras Gerais (Parte 1).
