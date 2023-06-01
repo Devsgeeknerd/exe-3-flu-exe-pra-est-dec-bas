@@ -20,10 +20,10 @@ Escrever também a `media calculada`.
 &nbsp;
 ![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/exe-3-flu-exe-pra-est-dec-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![Stars](https://img.shields.io/github/stars/Devsgeeknerd/exe-3-flu-exe-pra-exe-dec-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/exe-3-flu-exe-pra-est-dec-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![Forks](https://img.shields.io/github/forks/Devsgeeknerd/exe-3-flu-exe-pra-exe-dec-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/exe-3-flu-exe-pra-est-dec-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/exe-3-flu-exe-pra-est-dec-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/exe-3-flu-exe-pra-exe-dec-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/exe-3-flu-exe-pra-est-dec-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
